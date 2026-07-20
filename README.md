@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0118-pascals-triangle) |
+| [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
