@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 ## Math
 |  |
