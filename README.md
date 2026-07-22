@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
