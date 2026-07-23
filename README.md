@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
