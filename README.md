@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Math
 |  |
 | ------- |
