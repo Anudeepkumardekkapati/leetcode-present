@@ -9,7 +9,7 @@ class Solution:
         emt[1]=False
 
         for i in range(2,n):
-            if emt[i]:
+          
                 for j in range(i*i,n,i):
                     emt[j]=False
 
