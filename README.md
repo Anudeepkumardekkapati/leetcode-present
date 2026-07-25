@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -63,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0204-count-primes) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
