@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
