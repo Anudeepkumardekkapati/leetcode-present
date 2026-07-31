@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
