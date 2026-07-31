@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0739-daily-temperatures) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
