@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0227-basic-calculator-ii) |
+| [0412-fizz-buzz](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0227-basic-calculator-ii) |
+| [0412-fizz-buzz](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
