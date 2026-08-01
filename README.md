@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
+| [1528-shuffle-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1528-shuffle-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Dynamic Programming
