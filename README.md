@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Design
 |  |
