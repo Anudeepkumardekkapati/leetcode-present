@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0412-fizz-buzz) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0225-implement-stack-using-queues) |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
