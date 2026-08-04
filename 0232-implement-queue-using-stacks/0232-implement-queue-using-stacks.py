@@ -2,26 +2,16 @@ class MyQueue:
 
     def __init__(self):
         self.stack=[]
-        self.revstack=[]
+        self.stack2=[]
         
 
     def push(self, x: int) -> None:
         while self.stack:
-            first=self.stack.pop()
-            self.revstack.append(first)
-
-
-
+            self.stack2.append(self.stack.pop())
 
         self.stack.append(x)
-
-        while self.revstack:
-            first=self.revstack.pop()
-            self.stack.append(first)
-
-        
-        
-
+        while self.stack2:
+            self.stack.append(self.stack2.pop())
         
 
     def pop(self) -> int:
