@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
