@@ -2,23 +2,10 @@ import heapq
 class Solution:
     def numberGame(self, nums: List[int]) -> List[int]:
 
-        pq=[]
-        arr=[0]*len(nums)
-        for i in nums:
-            heapq.heappush(pq,i)
-        
-        j=0
-        while len(pq)!=0:
-            alice=heapq.heappop(pq)
-            bob=heapq.heappop(pq)
-
-            arr[j]=bob
-            j+=1
-            arr[j]=alice
-            j+=1
-
-            
-        return arr
+        nums.sort()
+        for i in range(1,len(nums),2):
+            nums[i],nums[i-1]=nums[i-1],nums[i]
+        return nums
 
 
 
