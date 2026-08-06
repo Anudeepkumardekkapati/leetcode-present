@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2974-minimum-number-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1552-magnetic-force-between-two-balls) |
+| [2974-minimum-number-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0032-longest-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
