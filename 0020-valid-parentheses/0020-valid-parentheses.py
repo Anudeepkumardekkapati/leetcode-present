@@ -4,10 +4,8 @@ class Solution:
             return False
         if s[0]==')' or s[0]=='}' or s[0]==']':
             return False
-      
         st=[]
         for i in s:
-        
             if i=='(':
                 st.append(i)
             elif i=='[':
@@ -20,23 +18,17 @@ class Solution:
                     st.pop()
                 else:
                     return False
-                
-
             elif i==']':
 
                 if i==']' and st and st[-1]=='[':
                     st.pop()
                 else:
                     return False
-                
-
             elif i=='}':
-
                 if i=="}" and st and st[-1]=='{':
                     st.pop()
                 else:
                     return False
-               
         return len(st)==0
 
                 
