@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1552-magnetic-force-between-two-balls) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2974-minimum-number-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0739-daily-temperatures) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Simulation
 |  |
 | ------- |
