@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0509-fibonacci-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0204-count-primes) |
@@ -254,5 +256,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
