@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0078-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
