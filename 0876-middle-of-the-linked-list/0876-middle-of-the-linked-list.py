@@ -4,24 +4,23 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head.next:
-            return head
-        curr=head
+    def middleNode(self, head: ListNode | None) -> ListNode | None:
         l=0
-
+        curr=head
         while curr:
             l+=1
             curr=curr.next
         
-        lens=l//2
 
         curr=head
-        i=1
-        while i!=lens:
-            curr=curr.next
-            i+=1
+        l1=l//2
+        if l1<1:
+            return head
         
-        return curr.next
-
+        num=0
+        while num<l1:
+            num+=1
+            curr=curr.next
+        return curr
+        
         
