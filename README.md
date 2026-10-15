@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Anudeepkumardekkapati/leetcode-present/tree/master/0735-asteroid-collision) |
